@@ -5,7 +5,13 @@ published: True
 
 # Welcome to Dice Blog
 
-Where we will let you know what we are doing or anyupdates added to the bot ect
+This is the official blog site where we will let you know what we are doing or anyupdates added to the bot ect. This Wesite is still being tested and will be in right order how it is needed
+
+<dl>
+  <dt>by</dt>
+  <dd>Exile1201</dd>
+  </dl>
+  
 
 ## What to Add
 
@@ -16,4 +22,4 @@ Where we will let you know what we are doing or anyupdates added to the bot ect
 | Completed    | ping             |
 | ~~We will~~  | Music Command    |
 
-![](https://i.imgur.com/XnjxNz7.png)
+![](https://i.imgur.com/XnjxNz7s.png)
